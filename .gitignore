@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+__pycache__
+*.pnml
+*.xes
+*.csv
+cache
+export
+logs
+evaluation_scripts
+outputs
+create_diagrams.py
